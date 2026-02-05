@@ -1,0 +1,6 @@
+profile/
+.ipynb_checkpoints/
+temp/
+venv/
+crawler.log
+script.py
